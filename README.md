@@ -11,8 +11,8 @@
 
 ---
 
-Scramjet is an experimental interception-based web proxy designed to evade internet censorship and bypass arbitrary browser restrictions.<br><br>
-Scramjet allows you to sandbox arbitrary web content, bypass CORS restrictions on loading websites, and instrument and debug websites inside the browser itself. This is accomplished through a combination of interception, rewriting, and sandboxing techniques. You can learn more about the technical details <a href="https://developer.puter.com/blog/how-I-ported-the-web-to-the-web/"><strong>here</strong></a>.<br><br>
+su: The Next-Generation Deployment Engine
+Building upon the lightning-fast foundations of uv, su is a specialized remake engineered from the ground up to revolutionize application deployment. It takes the core speed and reliability of modern package management and channels it into a frictionless, zero-headache deployment tool designed for the modern developer. Whether you are pushing a side project to a VPS or scaling an enterprise application across a fleet of servers, su eliminates the usual bottlenecks associated with environment setups and dependencies. <a href="https://developer.puter.com/blog/how-I-ported-the-web-to-the-web/"><strong>here</strong></a>.<br><br>
 
 ## Supported Sites
 
