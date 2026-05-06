@@ -11,44 +11,21 @@
 
 ---
 
-su: The Next-Generation Deployment Engine
-Building upon the lightning-fast foundations of uv, su is a specialized remake engineered from the ground up to revolutionize application deployment. It takes the core speed and reliability of modern package management and channels it into a frictionless, zero-headache deployment tool designed for the modern developer. Whether you are pushing a side project to a VPS or scaling an enterprise application across a fleet of servers, su eliminates the usual bottlenecks associated with environment setups and dependencies. <a href="https://developer.puter.com/blog/how-I-ported-the-web-to-the-web/"><strong>here</strong></a>.<br><br>
+su: The Next-Generation of uv
+easy deployment for a new uv no wisp needed and can be deployed on many sites lik (etc neocities github and any public static site maker)
 
 ## Supported Sites
 
-Some of the popular websites that Scramjet supports include:
+Some of the popular websites that SU supports include:
 
 - [Google](https://google.com) (partial)
-- [Youtube](https://youtube.com)
 - [Spotify](https://spotify.com) (partial)
 - [Discord](https://discord.com)
 - [Reddit](https://reddit.com)
 - [GeForce NOW](https://play.geforcenow.com/)
-- [now.gg](https://now.gg)
+
 
 ## Development
-
-### Dependencies
-
-- Recent versions of `node.js` and `pnpm`
-- `rustup`
-- `wasm-bindgen`
-- [Binaryen's `wasm-opt`](https://github.com/WebAssembly/binaryen)
-- [this `wasm-snip` fork](https://github.com/r58Playz/wasm-snip)
-
-#### Building
-
-- Clone the repository with `git clone --recursive https://github.com/MercuryWorkshop/scramjet`
-- Install the dependencies with `pnpm i`
-- Build the rewriter with `pnpm rewriter:build`
-- Build Scramjet with `pnpm build`
-
-### Running Scramjet Locally
-
-You can run the Scramjet dev server with the command
-
-```sh
-pnpm dev
-```
+it took me weeks to make this so pls star and support this 
 
 The demo page for scramjet should now be running at <http://localhost:4141> and should rebuild upon a file being changed (excluding the rewriter).
