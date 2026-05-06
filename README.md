@@ -1,6 +1,6 @@
-<h1 align="center">Scramjet</h1>
+<h1 align="center">Sea unbrella (su)</h1>
 <div align="center">
-  <img src="assets/scramjet.png" height="200" />
+  <img src="/logo.png" height="200" />
 </div>
 
 
