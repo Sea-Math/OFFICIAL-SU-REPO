@@ -24,4 +24,4 @@ Some of the popular websites that SU supports include:
 ## Development
 it took me weeks to make this so pls star and support this 
 
-The demo page for SU should now be running at <http://localhost:4141>.
+The demo page for SU should now be running at <https://sea-math.github.io/OFFICIAL-SU-REPO/>.
