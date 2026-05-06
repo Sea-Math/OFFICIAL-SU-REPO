@@ -3,11 +3,7 @@
   <img src="assets/scramjet.png" height="200" />
 </div>
 
-<div align="center">
-  <a href="https://www.npmjs.com/package/@mercuryworkshop/scramjet"><img src="https://img.shields.io/npm/v/@mercuryworkshop/scramjet.svg?maxAge=3600" alt="npm version" /></a>
-  <img src="https://img.shields.io/github/issues/MercuryWorkshop/scramjet?style=flat&color=orange" />
-  <img src="https://img.shields.io/github/stars/MercuryWorkshop/scramjet?style=flat&color=orange" />
-</div>
+
 
 ---
 
@@ -28,4 +24,4 @@ Some of the popular websites that SU supports include:
 ## Development
 it took me weeks to make this so pls star and support this 
 
-The demo page for scramjet should now be running at <http://localhost:4141> and should rebuild upon a file being changed (excluding the rewriter).
+The demo page for SU should now be running at <http://localhost:4141>.
